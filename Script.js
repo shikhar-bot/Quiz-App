@@ -81,7 +81,7 @@ function showQuestions(index) {
   }
 }
 
-// If User Select Question
+// If User Select option
 function optionSelect(answer) {
   clearInterval(count);
   clearInterval(countLine);
